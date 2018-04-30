@@ -21,4 +21,6 @@ Pasos:
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
+https://github.com/juang3/github.io.git
+
 
