@@ -21,8 +21,9 @@ Pasos:
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
-Web: https://juang3.github.io <br>
-Informe de la web designada a testear y valoración personal de la experiencia con los tester:
+Web [A]: https://juang3.github.io <br>
+Web [B]: https://manoloros.github.io <br>
+Informe de la web [B] designada a testear y valoración personal de la experiencia con los tester:
 https://github.com/juang3/juang3.github.io/blob/master/P4_UsabReport_Skuld_doneby_A1_MEZ
 
 
