@@ -22,7 +22,7 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 Web: https://juang3.github.io <br>
-Informe de la web designada a testear y valoración personal de la experiencia con los tester
+Informe de la web designada a testear y valoración personal de la experiencia con los tester:
 https://github.com/juang3/juang3.github.io/blob/master/P4_UsabReport_Skuld_doneby_A1_MEZ
 
 
